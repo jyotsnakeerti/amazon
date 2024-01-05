@@ -1,6 +1,6 @@
 # Amazon Clone - React
 
-![Amazon Clone](url-to-your-amazon-clone-image.png)
+
 
 ## Overview
 
@@ -14,7 +14,7 @@ This project is a clone of the popular e-commerce platform Amazon, built using R
 - **User Authentication:** Sign up, log in, and maintain user sessions.
 - **Shopping Cart:** View and manage items in the shopping cart.
 - **Checkout Process:** Proceed through the checkout process, including entering shipping details and payment information.
-- **Order Summary:** Review the order summary before confirming the purchase.
+
 
 ## Technologies Used
 
